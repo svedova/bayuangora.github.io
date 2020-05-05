@@ -6,6 +6,10 @@ https://angora.unubo.app
 
 https://angora.getforge.io
 
+https://angora.netlify.app
+
+https://angora.onrender.com
+
 https://bayuangora.github.io
 
 https://bayuangora.bitbucket.io
